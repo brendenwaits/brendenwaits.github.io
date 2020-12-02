@@ -19,6 +19,6 @@ body {
     justify-content: center;
 }
 
-a:link {
-  color : #FFFFFF;
+a:link, a:visited {
+  color: #FFFFFF;
 }
